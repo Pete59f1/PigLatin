@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatin", "PigLatin\PigLatin.csproj", "{3F4BC888-4D9D-4129-B952-EFDEA711569F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPigLatin", "UnitTestPigLatin\UnitTestPigLatin.csproj", "{7366C605-8D98-407B-A6FC-0B35F76B34A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4BC888-4D9D-4129-B952-EFDEA711569F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4BC888-4D9D-4129-B952-EFDEA711569F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4BC888-4D9D-4129-B952-EFDEA711569F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4BC888-4D9D-4129-B952-EFDEA711569F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7366C605-8D98-407B-A6FC-0B35F76B34A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7366C605-8D98-407B-A6FC-0B35F76B34A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7366C605-8D98-407B-A6FC-0B35F76B34A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7366C605-8D98-407B-A6FC-0B35F76B34A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E06154-F320-4DD8-ADC8-FCC589951008}
+	EndGlobalSection
+EndGlobal
